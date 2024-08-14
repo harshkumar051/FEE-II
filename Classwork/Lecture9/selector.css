@@ -1,0 +1,29 @@
+*{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+id selecter/
+#fruits{
+    color: black;
+    border: 3px dotted hotpink;
+}
+
+class selector/
+
+.a1{
+    color: rgb(65, 120, 129);
+    text-decoration: line-through;
+    font-weight: 500;
+}
+p{
+    background-color: rgb(135, 160, 70);
+
+}
+
+input[type="text"]{
+    background-color: darkcyan;
+}
+[type="password"]{
+    background-color: darkgoldenrod;
+}

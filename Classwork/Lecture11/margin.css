@@ -1,0 +1,15 @@
+body{
+    border: 10px red solid;
+}
+div{
+    border: 5px solid black;
+    padding: 20px 10px 20px;
+    margin: 20px 10px 20px;
+    text-align: justify;
+}
+a{
+    text-decoration: line-through;
+    font-size: 20px;
+    text-decoration-color: aqua;
+    text-decoration-style: double;    
+}

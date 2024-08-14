@@ -1,0 +1,17 @@
+section{  
+    background-color: rgb(199, 239, 53);
+    color: brown;
+    border: 4px solid blueviolet;
+    padding: 20px;
+    margin: 20px;          
+}
+
+@media (max-width:570px){
+    section{
+        background-color: red;
+        color: lightgoldenrodyellow;
+        border: 4px solid greenyellow;
+        padding: 20px;
+        margin: 20px;
+    }
+}           
